@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Social Cycling Lexington</title>
+  <link rel="stylesheet" href="https://use.typekit.net/pim0abt.css">
+  <link rel="stylesheet" href="main.css">
+  <link rel="icon" href="SCL.png">
+ 
+
+</head>
+
+<body>
+
+<div id="holder">
+  <div id="keeper">
+		<img src="SCL.png" style="width:90%;height:90%;">
+    <br>
+		<h1>Website Coming Soon</h1>
+  </div>
+</div>
+
+  
+</body>
+
+</html>

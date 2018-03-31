@@ -39,7 +39,7 @@ CREATE TABLE `wp8c_comments` (
 
 LOCK TABLES `wp8c_comments` WRITE;
 /*!40000 ALTER TABLE `wp8c_comments` DISABLE KEYS */;
-INSERT INTO `wp8c_comments` VALUES (1,1,'A WordPress Commenter','wapuu@wordpress.example','https://wordpress.org/','','2018-03-20 23:44:12','2018-03-20 23:44:12','Hi, this is a comment.\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\nCommenter avatars come from <a href=\"https://gravatar.com\">Gravatar</a>.',0,'1','','',0,0);
+INSERT INTO `wp8c_comments` VALUES (1,1,'A WordPress Commenter','wapuu@wordpress.example','https://wordpress.org/','','2018-03-20 23:44:12','2018-03-20 23:44:12','Hi, this is a comment.\nTo get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.\nCommenter avatars come from <a href=\"https://gravatar.com\">Gravatar</a>.',0,'post-trashed','','',0,0);
 /*!40000 ALTER TABLE `wp8c_comments` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

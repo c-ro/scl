@@ -27,7 +27,7 @@ CREATE TABLE `wp8c_term_taxonomy` (
 
 LOCK TABLES `wp8c_term_taxonomy` WRITE;
 /*!40000 ALTER TABLE `wp8c_term_taxonomy` DISABLE KEYS */;
-INSERT INTO `wp8c_term_taxonomy` VALUES (1,1,'category','',0,1),(2,2,'nav_menu','',0,2);
+INSERT INTO `wp8c_term_taxonomy` VALUES (1,1,'category','',0,0),(2,2,'nav_menu','',0,3);
 /*!40000 ALTER TABLE `wp8c_term_taxonomy` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
